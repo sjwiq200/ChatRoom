@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4da0af9-f2dc-4fc2-965b-b9a0fd539fa6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/ui.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-114x114-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-57x57-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-72x72-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/balls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bg-double-line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bg-purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bg-sidebar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bg-site.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/ambivalent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/angry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/confused.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/content.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/cool.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/crazy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/cry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/embarrassed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/footinmouth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/frown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/gasp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/grin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/hearteyes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/innocent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/kiss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/laugh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/mini-frown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/mini-smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/moneymouth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/naughty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/nerd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/not-amused.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/sarcastic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/sealed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/sick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/slant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/thumbsdown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/thumbsup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/wink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/yuck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/emoticons/yum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-dropdown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-invite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-locked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-picture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-select-room.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-twitter-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-unlocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/sign-in-with-twitter-l.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slide-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/wood.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/fancy-box/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/fancy-box/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/fancy-box/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/fancy-box/helpers/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/16a5991c0e55d412b4129ad5a820aa71.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/ed896fd7d54c8296b2632e0b6e0b4787.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/스크린샷 2018-01-21 오후 5.31.41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/이력서사진.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/balloons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/controllers/chatRoomController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/services/sendImageService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/crossdomain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/style.styl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/humans.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/ICanHaz.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/fancy-box/helpers/jquery.fancybox-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/fancy-box/helpers/jquery.fancybox-buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/fancy-box/helpers/jquery.fancybox-thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/fancy-box/helpers/jquery.fancybox-thumbs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/fancy-box/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/fancy-box/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/fancy-box/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-1.7.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-1.7.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/modernizr-2.5.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/strategy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="env.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/env.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="22" />
+    <option name="width" value="960" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChatRoom" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v9.3.0/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4da0af9-f2dc-4fc2-965b-b9a0fd539fa6" name="Default" comment="" />
+      <created>1517456920662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517456920662</updated>
+      <workItem from="1517456921933" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="274000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="22" width="960" height="992" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50479233" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

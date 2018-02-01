@@ -1,0 +1,9 @@
+.DS_Store
+*.swp
+node_modules
+config.json
+chats/*
+*.rdb
+!views/themes/default
+views/themes/*
+public/custom
